@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elena Santaeva (@Astronomyunicorn)
 
 ## 🚀 About Me
-DevOps Documentation Specialist and technical writer focused on creating structured, scalable documentation systems. Currently based in Chiang Mai, Thailand, bridging technical complexity with clear, accessible content.
+DocOps Documentation Specialist and technical writer focused on creating structured, scalable documentation systems. Currently based in Chiang Mai, Thailand, bridging technical complexity with clear, accessible content.
 
 ## 💼 What I Do
 - **DevOps & DocOps**: CI/CD documentation, API references, knowledge management systems, ITIL workflows, and docs-as-code practices
